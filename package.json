@@ -4,7 +4,7 @@
   "description": "Projeto criado no curso.dev para aprender o desenvolvimento completo de uma aplicação e me tornar um dev fora da curva 😎😁.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
