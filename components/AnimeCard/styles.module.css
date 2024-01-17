@@ -7,7 +7,6 @@
     cursor: pointer;
 }
 
-.card:hover,
 .cardActive {
     transform: rotateY(180deg);
 }
