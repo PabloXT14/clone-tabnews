@@ -1,0 +1,26 @@
+.welcomeContainer {
+    flex: 1;
+}
+
+.title {
+    /* text-3xl font-bold mb-4 */
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.subTitle {
+    /* text-lg mb-4 */
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.animeTitle {
+    font-size: 1.5rem;
+    font-family: 'Bungee Spice';
+    background-color: #fafafa;
+    border-radius: 4px;
+
+    width: fit-content;
+    padding: 0 1rem;
+}
