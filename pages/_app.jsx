@@ -9,7 +9,6 @@ function MyApp({ Component, pageProps }) {
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin=''/>
                 <title>Animes Freitas</title>
                 <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap" rel="stylesheet" />
-                <script src="https://cdn.tailwindcss.com"></script>
             </Head>
             <Component {...pageProps} />
         </>
