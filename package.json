@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
+  "author": "Pablo Alan (pabloxt14)",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
