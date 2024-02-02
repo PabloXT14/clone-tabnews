@@ -4,7 +4,9 @@
   "description": "Projeto criado no curso.dev para aprender o desenvolvimento completo de uma aplicação e me tornar um dev fora da curva 😎😁.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "author": "Pablo Alan (pabloxt14)",
   "license": "MIT",
@@ -12,5 +14,8 @@
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4"
   }
 }
